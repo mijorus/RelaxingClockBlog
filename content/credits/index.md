@@ -8,17 +8,14 @@ categories: ["Guides"]
 Awesome stuff that made Relaxing Clock possible
 
 **Libraries:**
-- Moment.js && Moment-timezone Link
-- Anime.js Link
-- RandomColor Link
-- ConnorAtherton/loaders.css Link
-. . . and many more!
-
-**City landscapes:**
-- Credits: Shutterstock@JosepPerianes Link
+- Svelte.js
+- Anime.js
+- RandomColor
+- ConnorAtherton/loaders.css
+... and many more!
 
 **Alarm sound:**
 - Credits: Zapsplat
 
-**Tomato Icon:**
-- Pixel perfect @flaticon [Link](https://www.flaticon.com/free-icon/tomato_1202125)
+**Weather Icons**
+- [Weather pack on flaticon](https://www.flaticon.com/packs/weather-256)
